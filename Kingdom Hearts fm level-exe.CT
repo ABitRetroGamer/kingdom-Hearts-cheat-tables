@@ -1,0 +1,931 @@
+<?xml version="1.0" encoding="utf-8"?>
+<CheatTable CheatEngineTableVersion="18">
+  <CheatEntries>
+    <CheatEntry>
+      <ID>46</ID>
+      <Description>"No description"</Description>
+      <LastState Value="??" Activated="0" RealAddress="24177A57"/>
+      <Color>80000008</Color>
+      <VariableType>Byte</VariableType>
+      <Address>24177A57</Address>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>34</ID>
+      <Description>"Synthesis"</Description>
+      <Options moHideChildren="1"/>
+      <LastState Value="" Activated="0" RealAddress="00000000"/>
+      <Color>80000008</Color>
+      <GroupHeader>1</GroupHeader>
+      <CheatEntries>
+        <CheatEntry>
+          <ID>101</ID>
+          <Description>"Blazing"</Description>
+          <Options moHideChildren="1"/>
+          <LastState Value="" Activated="0" RealAddress="00000000"/>
+          <Color>80000008</Color>
+          <GroupHeader>1</GroupHeader>
+          <CheatEntries>
+            <CheatEntry>
+              <ID>100</ID>
+              <Description>"Blazing Shard"</Description>
+              <LastState Value="??" Activated="0" RealAddress="20330564"/>
+              <Color>80000008</Color>
+              <VariableType>4 Bytes</VariableType>
+              <Address>20330564</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>99</ID>
+              <Description>"Blazing Stone"</Description>
+              <LastState Value="??" Activated="0" RealAddress="20330568"/>
+              <Color>80000008</Color>
+              <VariableType>4 Bytes</VariableType>
+              <Address>20330568</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>121</ID>
+              <Description>"Blazing Gem"</Description>
+              <LastState Value="??" Activated="0" RealAddress="2033056C"/>
+              <Color>80000008</Color>
+              <VariableType>4 Bytes</VariableType>
+              <Address>2033056C</Address>
+            </CheatEntry>
+          </CheatEntries>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>107</ID>
+          <Description>"Frost"</Description>
+          <Options moHideChildren="1"/>
+          <LastState Value="" Activated="0" RealAddress="00000000"/>
+          <Color>80000008</Color>
+          <GroupHeader>1</GroupHeader>
+          <CheatEntries>
+            <CheatEntry>
+              <ID>74</ID>
+              <Description>"Frost Shard"</Description>
+              <LastState Value="??" Activated="0" RealAddress="20330574"/>
+              <Color>80000008</Color>
+              <VariableType>4 Bytes</VariableType>
+              <Address>20330574</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>33</ID>
+              <Description>"Frost Stone "</Description>
+              <LastState Value="??" Activated="0" RealAddress="2032F17D"/>
+              <Color>80000008</Color>
+              <VariableType>4 Bytes</VariableType>
+              <Address>2032F17D</Address>
+            </CheatEntry>
+          </CheatEntries>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>120</ID>
+          <Description>"Lightning"</Description>
+          <Options moHideChildren="1"/>
+          <LastState Value="" Activated="0" RealAddress="00000000"/>
+          <Color>80000008</Color>
+          <GroupHeader>1</GroupHeader>
+          <CheatEntries>
+            <CheatEntry>
+              <ID>119</ID>
+              <Description>"Lightning Gem"</Description>
+              <LastState Value="??" Activated="0" RealAddress="2033058C"/>
+              <Color>80000008</Color>
+              <VariableType>4 Bytes</VariableType>
+              <Address>2033058C</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>75</ID>
+              <Description>"Lightning Shard"</Description>
+              <LastState Value="??" Activated="0" RealAddress="20330584"/>
+              <Color>80000008</Color>
+              <VariableType>4 Bytes</VariableType>
+              <Address>20330584</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>125</ID>
+              <Description>"Lightning Stone"</Description>
+              <LastState Value="??" Activated="0" RealAddress="20330588"/>
+              <Color>80000008</Color>
+              <VariableType>4 Bytes</VariableType>
+              <Address>20330588</Address>
+            </CheatEntry>
+          </CheatEntries>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>110</ID>
+          <Description>"Lucid"</Description>
+          <Options moHideChildren="1"/>
+          <LastState Value="" Activated="0" RealAddress="00000000"/>
+          <Color>80000008</Color>
+          <GroupHeader>1</GroupHeader>
+          <CheatEntries>
+            <CheatEntry>
+              <ID>78</ID>
+              <Description>"Lucid Shard"</Description>
+              <LastState Value="??" Activated="0" RealAddress="20330594"/>
+              <Color>80000008</Color>
+              <VariableType>4 Bytes</VariableType>
+              <Address>20330594</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>127</ID>
+              <Description>"Lucid Stone"</Description>
+              <LastState Value="??" Activated="0" RealAddress="20330598"/>
+              <Color>80000008</Color>
+              <VariableType>4 Bytes</VariableType>
+              <Address>20330598</Address>
+            </CheatEntry>
+          </CheatEntries>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>106</ID>
+          <Description>"Power"</Description>
+          <Options moHideChildren="1"/>
+          <LastState Value="" Activated="0" RealAddress="00000000"/>
+          <Color>80000008</Color>
+          <GroupHeader>1</GroupHeader>
+          <CheatEntries>
+            <CheatEntry>
+              <ID>77</ID>
+              <Description>"Power Shard"</Description>
+              <LastState Value="??" Activated="0" RealAddress="203305A4"/>
+              <Color>80000008</Color>
+              <VariableType>4 Bytes</VariableType>
+              <Address>203305A4</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>118</ID>
+              <Description>"Power Stone"</Description>
+              <LastState Value="??" Activated="0" RealAddress="203305A8"/>
+              <Color>80000008</Color>
+              <VariableType>4 Bytes</VariableType>
+              <Address>203305A8</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>123</ID>
+              <Description>"Power gem"</Description>
+              <LastState Value="??" Activated="0" RealAddress="203305AC"/>
+              <Color>80000008</Color>
+              <VariableType>4 Bytes</VariableType>
+              <Address>203305AC</Address>
+            </CheatEntry>
+          </CheatEntries>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>65</ID>
+          <Description>"Dark"</Description>
+          <Options moHideChildren="1"/>
+          <LastState Value="" Activated="0" RealAddress="00000000"/>
+          <Color>80000008</Color>
+          <GroupHeader>1</GroupHeader>
+          <CheatEntries>
+            <CheatEntry>
+              <ID>47</ID>
+              <Description>"Dark Shard"</Description>
+              <LastState Value="??" Activated="0" RealAddress="203305B4"/>
+              <Color>80000008</Color>
+              <VariableType>4 Bytes</VariableType>
+              <Address>203305B4</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>124</ID>
+              <Description>"Dark stone"</Description>
+              <LastState Value="??" Activated="0" RealAddress="203305B8"/>
+              <Color>80000008</Color>
+              <VariableType>4 Bytes</VariableType>
+              <Address>203305B8</Address>
+            </CheatEntry>
+          </CheatEntries>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>59</ID>
+          <Description>"Dense"</Description>
+          <Options moHideChildren="1"/>
+          <LastState Value="" Activated="0" RealAddress="00000000"/>
+          <Color>80000008</Color>
+          <GroupHeader>1</GroupHeader>
+          <CheatEntries>
+            <CheatEntry>
+              <ID>58</ID>
+              <Description>"Debse Crystal"</Description>
+              <LastState Value="??" Activated="0" RealAddress="203305D0"/>
+              <Color>80000008</Color>
+              <VariableType>4 Bytes</VariableType>
+              <Address>203305D0</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>60</ID>
+              <Description>"Dense Gem"</Description>
+              <LastState Value="??" Activated="0" RealAddress="203305CC"/>
+              <Color>80000008</Color>
+              <VariableType>4 Bytes</VariableType>
+              <Address>203305CC</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>61</ID>
+              <Description>"Dense  Stone"</Description>
+              <LastState Value="??" Activated="0" RealAddress="203305C8"/>
+              <Color>80000008</Color>
+              <VariableType>4 Bytes</VariableType>
+              <Address>203305C8</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>62</ID>
+              <Description>"Dense Shard"</Description>
+              <LastState Value="??" Activated="0" RealAddress="203305C4"/>
+              <Color>80000008</Color>
+              <VariableType>4 Bytes</VariableType>
+              <Address>203305C4</Address>
+            </CheatEntry>
+          </CheatEntries>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>114</ID>
+          <Description>"Twilight"</Description>
+          <Options moHideChildren="1"/>
+          <LastState Value="" Activated="0" RealAddress="00000000"/>
+          <Color>80000008</Color>
+          <GroupHeader>1</GroupHeader>
+          <CheatEntries>
+            <CheatEntry>
+              <ID>113</ID>
+              <Description>"Twilight Shard"</Description>
+              <LastState Value="??" Activated="0" RealAddress="203305D4"/>
+              <Color>80000008</Color>
+              <VariableType>4 Bytes</VariableType>
+              <Address>203305D4</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>112</ID>
+              <Description>"Twilight Stone"</Description>
+              <LastState Value="??" Activated="0" RealAddress="203305D8"/>
+              <Color>80000008</Color>
+              <VariableType>4 Bytes</VariableType>
+              <Address>203305D8</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>134</ID>
+              <Description>"Twilight Crystal"</Description>
+              <LastState Value="??" Activated="0" RealAddress="203305E0"/>
+              <Color>80000008</Color>
+              <VariableType>4 Bytes</VariableType>
+              <Address>203305E0</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>135</ID>
+              <Description>"Twilight Gem"</Description>
+              <LastState Value="??" Activated="0" RealAddress="203305DC"/>
+              <Color>80000008</Color>
+              <VariableType>4 Bytes</VariableType>
+              <Address>203305DC</Address>
+            </CheatEntry>
+          </CheatEntries>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>102</ID>
+          <Description>"Mythril"</Description>
+          <Options moHideChildren="1"/>
+          <LastState Value="" Activated="0" RealAddress="00000000"/>
+          <Color>80000008</Color>
+          <GroupHeader>1</GroupHeader>
+          <CheatEntries>
+            <CheatEntry>
+              <ID>73</ID>
+              <Description>"Mythril Shard"</Description>
+              <LastState Value="??" Activated="0" RealAddress="203305E4"/>
+              <Color>80000008</Color>
+              <VariableType>4 Bytes</VariableType>
+              <Address>203305E4</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>115</ID>
+              <Description>"Mythril  Crystal"</Description>
+              <LastState Value="??" Activated="0" RealAddress="203305F0"/>
+              <Color>80000008</Color>
+              <VariableType>4 Bytes</VariableType>
+              <Address>203305F0</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>117</ID>
+              <Description>"Mythril Stone"</Description>
+              <LastState Value="??" Activated="0" RealAddress="203305E8"/>
+              <Color>80000008</Color>
+              <VariableType>4 Bytes</VariableType>
+              <Address>203305E8</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>122</ID>
+              <Description>"Mythril Gem"</Description>
+              <LastState Value="??" Activated="0" RealAddress="203305EC"/>
+              <Color>80000008</Color>
+              <VariableType>4 Bytes</VariableType>
+              <Address>203305EC</Address>
+            </CheatEntry>
+          </CheatEntries>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>104</ID>
+          <Description>"Rememberance"</Description>
+          <Options moHideChildren="1"/>
+          <LastState Value="" Activated="0" RealAddress="00000000"/>
+          <Color>80000008</Color>
+          <GroupHeader>1</GroupHeader>
+          <CheatEntries>
+            <CheatEntry>
+              <ID>94</ID>
+              <Description>"Remembrance shard"</Description>
+              <LastState Value="??" Activated="0" RealAddress="203305F4"/>
+              <Color>80000008</Color>
+              <VariableType>4 Bytes</VariableType>
+              <Address>203305F4</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>92</ID>
+              <Description>"Remeberace Gem"</Description>
+              <LastState Value="??" Activated="0" RealAddress="203305FC"/>
+              <Color>80000008</Color>
+              <VariableType>4 Bytes</VariableType>
+              <Address>203305FC</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>126</ID>
+              <Description>"Rememberance Stone"</Description>
+              <LastState Value="??" Activated="0" RealAddress="203305F8"/>
+              <Color>80000008</Color>
+              <VariableType>4 Bytes</VariableType>
+              <Address>203305F8</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>136</ID>
+              <Description>"Remembrance Crystal"</Description>
+              <LastState Value="??" Activated="0" RealAddress="20330600"/>
+              <Color>80000008</Color>
+              <VariableType>4 Bytes</VariableType>
+              <Address>20330600</Address>
+            </CheatEntry>
+          </CheatEntries>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>105</ID>
+          <Description>"Tranquil"</Description>
+          <Options moHideChildren="1"/>
+          <LastState Value="" Activated="0" RealAddress="00000000"/>
+          <Color>80000008</Color>
+          <GroupHeader>1</GroupHeader>
+          <CheatEntries>
+            <CheatEntry>
+              <ID>90</ID>
+              <Description>"tranquil gem"</Description>
+              <LastState Value="??" Activated="0" RealAddress="2033060C"/>
+              <Color>80000008</Color>
+              <VariableType>4 Bytes</VariableType>
+              <Address>2033060C</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>91</ID>
+              <Description>"tranquil stone"</Description>
+              <LastState Value="??" Activated="0" RealAddress="20330608"/>
+              <Color>80000008</Color>
+              <VariableType>4 Bytes</VariableType>
+              <Address>20330608</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>93</ID>
+              <Description>"tranquil shard"</Description>
+              <LastState Value="??" Activated="0" RealAddress="20330604"/>
+              <Color>80000008</Color>
+              <VariableType>4 Bytes</VariableType>
+              <Address>20330604</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>85</ID>
+              <Description>"Tranquil crystal"</Description>
+              <LastState Value="??" Activated="0" RealAddress="20330610"/>
+              <Color>80000008</Color>
+              <VariableType>4 Bytes</VariableType>
+              <Address>20330610</Address>
+            </CheatEntry>
+          </CheatEntries>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>103</ID>
+          <Description>"Bright"</Description>
+          <Options moHideChildren="1"/>
+          <LastState Value="" Activated="0" RealAddress="00000000"/>
+          <Color>80000008</Color>
+          <GroupHeader>1</GroupHeader>
+          <CheatEntries>
+            <CheatEntry>
+              <ID>97</ID>
+              <Description>"Bright Shard"</Description>
+              <LastState Value="??" Activated="0" RealAddress="20330614"/>
+              <Color>80000008</Color>
+              <VariableType>4 Bytes</VariableType>
+              <Address>20330614</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>96</ID>
+              <Description>"Bright Stone"</Description>
+              <LastState Value="??" Activated="0" RealAddress="20330618"/>
+              <Color>80000008</Color>
+              <VariableType>4 Bytes</VariableType>
+              <Address>20330618</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>95</ID>
+              <Description>"Bright Gem"</Description>
+              <LastState Value="??" Activated="0" RealAddress="2033061C"/>
+              <Color>80000008</Color>
+              <VariableType>4 Bytes</VariableType>
+              <Address>2033061C</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>63</ID>
+              <Description>"Bright Crystal"</Description>
+              <LastState Value="??" Activated="0" RealAddress="20330620"/>
+              <Color>80000008</Color>
+              <VariableType>4 Bytes</VariableType>
+              <Address>20330620</Address>
+            </CheatEntry>
+          </CheatEntries>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>71</ID>
+          <Description>"Energy"</Description>
+          <Options moHideChildren="1"/>
+          <LastState Value="" Activated="0" RealAddress="00000000"/>
+          <Color>80000008</Color>
+          <GroupHeader>1</GroupHeader>
+          <CheatEntries>
+            <CheatEntry>
+              <ID>67</ID>
+              <Description>"Energy Shard"</Description>
+              <LastState Value="??" Activated="0" RealAddress="20330624"/>
+              <Color>80000008</Color>
+              <VariableType>4 Bytes</VariableType>
+              <Address>20330624</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>87</ID>
+              <Description>"Energy Crystal"</Description>
+              <LastState Value="??" Activated="0" RealAddress="20330630"/>
+              <Color>80000008</Color>
+              <VariableType>4 Bytes</VariableType>
+              <Address>20330630</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>116</ID>
+              <Description>"Energy Gem"</Description>
+              <LastState Value="??" Activated="0" RealAddress="2033062C"/>
+              <Color>80000008</Color>
+              <VariableType>4 Bytes</VariableType>
+              <Address>2033062C</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>130</ID>
+              <Description>"Energy Stone"</Description>
+              <LastState Value="??" Activated="0" RealAddress="20330628"/>
+              <Color>80000008</Color>
+              <VariableType>4 Bytes</VariableType>
+              <Address>20330628</Address>
+            </CheatEntry>
+          </CheatEntries>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>69</ID>
+          <Description>"Serenity"</Description>
+          <Options moHideChildren="1"/>
+          <LastState Value="" Activated="0" RealAddress="00000000"/>
+          <Color>80000008</Color>
+          <GroupHeader>1</GroupHeader>
+          <CheatEntries>
+            <CheatEntry>
+              <ID>68</ID>
+              <Description>"Serenity Shard"</Description>
+              <LastState Value="??" Activated="0" RealAddress="20330634"/>
+              <Color>80000008</Color>
+              <VariableType>4 Bytes</VariableType>
+              <Address>20330634</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>64</ID>
+              <Description>"Serenity Crystal"</Description>
+              <LastState Value="??" Activated="0" RealAddress="20330640"/>
+              <Color>80000008</Color>
+              <VariableType>4 Bytes</VariableType>
+              <Address>20330640</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>86</ID>
+              <Description>"Serenity Gem"</Description>
+              <LastState Value="??" Activated="0" RealAddress="2033063C"/>
+              <Color>80000008</Color>
+              <VariableType>4 Bytes</VariableType>
+              <Address>2033063C</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>131</ID>
+              <Description>"Serenity Stone"</Description>
+              <LastState Value="??" Activated="0" RealAddress="20330638"/>
+              <Color>80000008</Color>
+              <VariableType>4 Bytes</VariableType>
+              <Address>20330638</Address>
+            </CheatEntry>
+          </CheatEntries>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>108</ID>
+          <Description>"Ilusion"</Description>
+          <Options moHideChildren="1"/>
+          <LastState Value="" Activated="0" RealAddress="00000000"/>
+          <Color>80000008</Color>
+          <GroupHeader>1</GroupHeader>
+          <CheatEntries>
+            <CheatEntry>
+              <ID>88</ID>
+              <Description>"Lost illusion"</Description>
+              <LastState Value="??" Activated="0" RealAddress="20330648"/>
+              <Color>80000008</Color>
+              <VariableType>4 Bytes</VariableType>
+              <Address>20330648</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>84</ID>
+              <Description>"Found illusion"</Description>
+              <LastState Value="??" Activated="0" RealAddress="20330644"/>
+              <Color>80000008</Color>
+              <VariableType>4 Bytes</VariableType>
+              <Address>20330644</Address>
+            </CheatEntry>
+          </CheatEntries>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>109</ID>
+          <Description>"Orichalcum"</Description>
+          <Options moHideChildren="1"/>
+          <LastState Value="" Activated="0" RealAddress="00000000"/>
+          <Color>80000008</Color>
+          <GroupHeader>1</GroupHeader>
+          <CheatEntries>
+            <CheatEntry>
+              <ID>57</ID>
+              <Description>"Orichalcum"</Description>
+              <LastState Value="??" Activated="0" RealAddress="2033064C"/>
+              <Color>80000008</Color>
+              <VariableType>4 Bytes</VariableType>
+              <Address>2033064C</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>133</ID>
+              <Description>"orichakcum+"</Description>
+              <LastState Value="??" Activated="0" RealAddress="20330650"/>
+              <Color>80000008</Color>
+              <VariableType>4 Bytes</VariableType>
+              <Address>20330650</Address>
+            </CheatEntry>
+          </CheatEntries>
+        </CheatEntry>
+      </CheatEntries>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>54</ID>
+      <Description>"Stats"</Description>
+      <Options moHideChildren="1"/>
+      <LastState Value="" Activated="1" RealAddress="00000000"/>
+      <Color>80000008</Color>
+      <GroupHeader>1</GroupHeader>
+      <CheatEntries>
+        <CheatEntry>
+          <ID>53</ID>
+          <Description>"Magic"</Description>
+          <LastState Value="??" Activated="1" RealAddress="21C6C8D0"/>
+          <Color>80000008</Color>
+          <VariableType>4 Bytes</VariableType>
+          <Address>21C6C8D0</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>52</ID>
+          <Description>"Drive"</Description>
+          <LastState Value="??" Activated="1" RealAddress="21C6C901"/>
+          <Color>80000008</Color>
+          <VariableType>Byte</VariableType>
+          <Address>21C6C901</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>56</ID>
+          <Description>"Health"</Description>
+          <LastState Value="??" Activated="1" RealAddress="21C6C750"/>
+          <Color>80000008</Color>
+          <VariableType>4 Bytes</VariableType>
+          <Address>21C6C750</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>81</ID>
+          <Description>"Exp"</Description>
+          <LastState Value="??" Activated="0" RealAddress="2032F210"/>
+          <Color>80000008</Color>
+          <VariableType>4 Bytes</VariableType>
+          <Address>2032F210</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>82</ID>
+          <Description>"Level"</Description>
+          <LastState Value="??" Activated="0" RealAddress="2032E02F"/>
+          <Color>80000008</Color>
+          <VariableType>Byte</VariableType>
+          <Address>2032E02F</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>83</ID>
+          <Description>"No description"</Description>
+          <LastState Value="??" Activated="0" RealAddress="21D48EFC"/>
+          <Color>80000008</Color>
+          <VariableType>4 Bytes</VariableType>
+          <Address>21D48EFC</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>143</ID>
+          <Description>"Munnies"</Description>
+          <LastState Value="??" Activated="0" RealAddress="2032DF70"/>
+          <Color>80000008</Color>
+          <VariableType>4 Bytes</VariableType>
+          <Address>2032DF70</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>149</ID>
+          <Description>"Ap"</Description>
+          <LastState Value="??" Activated="0" RealAddress="21F31A84"/>
+          <Color>80000008</Color>
+          <VariableType>Byte</VariableType>
+          <Address>21F31A84</Address>
+        </CheatEntry>
+      </CheatEntries>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>142</ID>
+      <Description>"Keybalde"</Description>
+      <Options moHideChildren="1"/>
+      <LastState Value="" Activated="0" RealAddress="00000000"/>
+      <Color>80000008</Color>
+      <GroupHeader>1</GroupHeader>
+      <CheatEntries>
+        <CheatEntry>
+          <ID>141</ID>
+          <Description>"Ultimat keyblade"</Description>
+          <LastState Value="??" Activated="0" RealAddress="2032F1BF"/>
+          <Color>80000008</Color>
+          <VariableType>Byte</VariableType>
+          <Address>2032F1BF</Address>
+        </CheatEntry>
+      </CheatEntries>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>138</ID>
+      <Description>"Armor"</Description>
+      <Options moHideChildren="1"/>
+      <LastState Value="" Activated="1" RealAddress="00000000"/>
+      <Color>80000008</Color>
+      <GroupHeader>1</GroupHeader>
+      <CheatEntries>
+        <CheatEntry>
+          <ID>137</ID>
+          <Description>"Ribbion+"</Description>
+          <LastState Value="??" Activated="1" RealAddress="2032F104"/>
+          <Color>80000008</Color>
+          <VariableType>Byte</VariableType>
+          <Address>2032F104</Address>
+        </CheatEntry>
+      </CheatEntries>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>140</ID>
+      <Description>"Accessories"</Description>
+      <Options moHideChildren="1"/>
+      <LastState Value="" Activated="1" RealAddress="00000000"/>
+      <Color>80000008</Color>
+      <GroupHeader>1</GroupHeader>
+      <CheatEntries>
+        <CheatEntry>
+          <ID>139</ID>
+          <Description>"Full Bloom+"</Description>
+          <LastState Value="??" Activated="1" RealAddress="2032F0EB"/>
+          <Color>80000008</Color>
+          <VariableType>Byte</VariableType>
+          <Address>2032F0EB</Address>
+        </CheatEntry>
+      </CheatEntries>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>144</ID>
+      <Description>"power boost"</Description>
+      <LastState Value="??" Activated="0" RealAddress="2032F196"/>
+      <Color>80000008</Color>
+      <VariableType>Byte</VariableType>
+      <Address>2032F196</Address>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>146</ID>
+      <Description>"magic boost"</Description>
+      <LastState Value="??" Activated="0" RealAddress="2032F197"/>
+      <Color>80000008</Color>
+      <VariableType>Byte</VariableType>
+      <Address>2032F197</Address>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>147</ID>
+      <Description>"ap boost"</Description>
+      <LastState Value="??" Activated="0" RealAddress="2032F199"/>
+      <Color>80000008</Color>
+      <VariableType>Byte</VariableType>
+      <Address>2032F199</Address>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>148</ID>
+      <Description>"No description"</Description>
+      <LastState Value="??" Activated="0" RealAddress="2032F198"/>
+      <Color>80000008</Color>
+      <VariableType>Byte</VariableType>
+      <Address>2032F198</Address>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>150</ID>
+      <Description>"No description"</Description>
+      <LastState Value="??" Activated="0" RealAddress="21ADD085"/>
+      <Color>80000008</Color>
+      <VariableType>Byte</VariableType>
+      <Address>21ADD085</Address>
+    </CheatEntry>
+  </CheatEntries>
+  <CheatCodes>
+    <CodeEntry>
+      <Description>Change of mov [ecx],dx</Description>
+      <Address>30093B98</Address>
+      <ModuleName/>
+      <ModuleNameOffset>0</ModuleNameOffset>
+      <Before>
+        <Byte>88</Byte>
+        <Byte>68</Byte>
+        <Byte>C6</Byte>
+        <Byte>CD</Byte>
+        <Byte>D2</Byte>
+      </Before>
+      <Actual>
+        <Byte>66</Byte>
+        <Byte>89</Byte>
+        <Byte>11</Byte>
+      </Actual>
+      <After>
+        <Byte>8B</Byte>
+        <Byte>0D</Byte>
+        <Byte>C0</Byte>
+        <Byte>01</Byte>
+        <Byte>33</Byte>
+      </After>
+    </CodeEntry>
+    <CodeEntry>
+      <Description>Change of mov [ecx],dl</Description>
+      <Address>30446CE9</Address>
+      <ModuleName/>
+      <ModuleNameOffset>0</ModuleNameOffset>
+      <Before>
+        <Byte>88</Byte>
+        <Byte>D7</Byte>
+        <Byte>94</Byte>
+        <Byte>92</Byte>
+        <Byte>D2</Byte>
+      </Before>
+      <Actual>
+        <Byte>88</Byte>
+        <Byte>11</Byte>
+      </Actual>
+      <After>
+        <Byte>89</Byte>
+        <Byte>35</Byte>
+        <Byte>B8</Byte>
+        <Byte>03</Byte>
+        <Byte>33</Byte>
+      </After>
+    </CodeEntry>
+    <CodeEntry>
+      <Description>Change of mov [ecx],dl</Description>
+      <Address>306F3818</Address>
+      <ModuleName/>
+      <ModuleNameOffset>0</ModuleNameOffset>
+      <Before>
+        <Byte>88</Byte>
+        <Byte>A8</Byte>
+        <Byte>C9</Byte>
+        <Byte>67</Byte>
+        <Byte>D2</Byte>
+      </Before>
+      <Actual>
+        <Byte>88</Byte>
+        <Byte>11</Byte>
+      </Actual>
+      <After>
+        <Byte>89</Byte>
+        <Byte>35</Byte>
+        <Byte>B8</Byte>
+        <Byte>03</Byte>
+        <Byte>33</Byte>
+      </After>
+    </CodeEntry>
+    <CodeEntry>
+      <Description>Change of mov [ecx],dl</Description>
+      <Address>3044725B</Address>
+      <ModuleName/>
+      <ModuleNameOffset>0</ModuleNameOffset>
+      <Before>
+        <Byte>88</Byte>
+        <Byte>65</Byte>
+        <Byte>8F</Byte>
+        <Byte>92</Byte>
+        <Byte>D2</Byte>
+      </Before>
+      <Actual>
+        <Byte>88</Byte>
+        <Byte>11</Byte>
+      </Actual>
+      <After>
+        <Byte>8B</Byte>
+        <Byte>0D</Byte>
+        <Byte>E0</Byte>
+        <Byte>01</Byte>
+        <Byte>33</Byte>
+      </After>
+    </CodeEntry>
+    <CodeEntry>
+      <Description>Change of mov [ecx],dl</Description>
+      <Address>303B84F0</Address>
+      <ModuleName/>
+      <ModuleNameOffset>0</ModuleNameOffset>
+      <Before>
+        <Byte>88</Byte>
+        <Byte>D0</Byte>
+        <Byte>7C</Byte>
+        <Byte>9B</Byte>
+        <Byte>D2</Byte>
+      </Before>
+      <Actual>
+        <Byte>88</Byte>
+        <Byte>11</Byte>
+      </Actual>
+      <After>
+        <Byte>89</Byte>
+        <Byte>35</Byte>
+        <Byte>B8</Byte>
+        <Byte>03</Byte>
+        <Byte>33</Byte>
+      </After>
+    </CodeEntry>
+    <CodeEntry>
+      <Description>Change of mov [ecx],dl</Description>
+      <Address>303B95BF</Address>
+      <ModuleName/>
+      <ModuleNameOffset>0</ModuleNameOffset>
+      <Before>
+        <Byte>88</Byte>
+        <Byte>01</Byte>
+        <Byte>6C</Byte>
+        <Byte>9B</Byte>
+        <Byte>D2</Byte>
+      </Before>
+      <Actual>
+        <Byte>88</Byte>
+        <Byte>11</Byte>
+      </Actual>
+      <After>
+        <Byte>8B</Byte>
+        <Byte>0D</Byte>
+        <Byte>E0</Byte>
+        <Byte>01</Byte>
+        <Byte>33</Byte>
+      </After>
+    </CodeEntry>
+    <CodeEntry>
+      <Description>Change of mov [ecx],dl</Description>
+      <Address>303A4999</Address>
+      <ModuleName/>
+      <ModuleNameOffset>0</ModuleNameOffset>
+      <Before>
+        <Byte>88</Byte>
+        <Byte>27</Byte>
+        <Byte>B8</Byte>
+        <Byte>9C</Byte>
+        <Byte>D2</Byte>
+      </Before>
+      <Actual>
+        <Byte>88</Byte>
+        <Byte>11</Byte>
+      </Actual>
+      <After>
+        <Byte>31</Byte>
+        <Byte>D2</Byte>
+        <Byte>8B</Byte>
+        <Byte>0D</Byte>
+        <Byte>60</Byte>
+      </After>
+    </CodeEntry>
+  </CheatCodes>
+  <UserdefinedSymbols/>
+</CheatTable>
